@@ -138,5 +138,5 @@ This project demonstrates how customer data can be transformed into actionable b
 
 Aryan Soni
 
-Data Analyst | SQL | Python | Tableau | Machine Learning
+Data Analyst | SQL | Python | Tableau | Machine Learning | PowerBI
 
